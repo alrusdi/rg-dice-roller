@@ -1,0 +1,149 @@
+body {
+	background-color: #FBE7C2
+}
+
+.elephant-area {
+	background: url(/img/elephant.png) no-repeat;
+	width: 155px;
+	height: 140px;
+	background-size: contain;
+	margin: 0 auto;
+}
+
+.dice-cont {
+	width: 60px;
+	height: 60px;
+	background-size: contain;
+	border-radius: 15px;
+	background-repeat: no-repeat;
+}
+
+.player-dice-welcome {
+	width: 60px;
+	height: 60px;
+	background: url(/img/target.png);
+	opacity: 0.3;
+	margin: 0 auto;
+}
+
+.dice-cont.dice-bl1 {
+	background-image: url(/img/bl1.png);
+}
+
+.dice-cont.dice-bl2 {
+	background-image: url(/img/bl2.png);
+}
+
+.dice-cont.dice-bl3 {
+	background-image: url(/img/bl3.png);
+}
+
+.dice-cont.dice-bl4 {
+	background-image: url(/img/bl4.png);
+}
+
+.dice-cont.dice-bl5 {
+	background-image: url(/img/bl5.png);
+}
+
+.dice-cont.dice-bl6 {
+	background-image: url(/img/bl6.png);
+}
+
+.dice-cont.dice-gn1 {
+	background-image: url(/img/gn1.png);
+}
+
+.dice-cont.dice-gn2 {
+	background-image: url(/img/gn2.png);
+}
+
+.dice-cont.dice-gn3 {
+	background-image: url(/img/gn3.png);
+}
+
+.dice-cont.dice-gn4 {
+	background-image: url(/img/gn1.png);
+}
+
+.dice-cont.dice-gn5 {
+	background-image: url(/img/gn2.png);
+}
+
+.dice-cont.dice-gn6 {
+	background-image: url(/img/gn3.png);
+}
+
+.dice-cont.dice-or1 {
+	background-image: url(/img/or1.png);
+}
+
+.dice-cont.dice-or2 {
+	background-image: url(/img/or2.png);
+}
+
+.dice-cont.dice-or3 {
+	background-image: url(/img/or3.png);
+}
+
+.dice-cont.dice-or4 {
+	background-image: url(/img/or4.png);
+}
+
+.dice-cont.dice-or5 {
+	background-image: url(/img/or5.png);
+}
+
+.dice-cont.dice-or6 {
+	background-image: url(/img/or6.png);
+}
+
+.dice-cont.dice-pr1 {
+	background-image: url(/img/pr1.png);
+}
+
+.dice-cont.dice-pr2 {
+	background-image: url(/img/pr2.png);
+}
+
+.dice-cont.dice-pr3 {
+	background-image: url(/img/pr3.png);
+}
+
+.dice-cont.dice-pr4 {
+	background-image: url(/img/pr4.png);
+}
+
+.dice-cont.dice-pr5 {
+	background-image: url(/img/pr5.png);
+}
+
+.dice-cont.dice-pr6 {
+	background-image: url(/img/pr6.png);
+}
+
+.container {
+	max-width: 500px;
+}
+
+.player-cont {
+	border: 1px solid #d3d3d3;
+	margin: 0 0 20px 0;
+	width: 69px;
+}
+
+.player-label {
+	background: #f7cf97;
+	font-weight: bold;
+	text-wrap: nowrap;
+	min-width: 68px;
+	margin-bottom: 10px;
+}
+
+.player-body {
+	margin-bottom: 10px;
+}
+
+.player-cont .dice-cont {
+	margin-bottom: 10px;
+}
